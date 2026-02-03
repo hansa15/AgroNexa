@@ -1,0 +1,57 @@
+html{
+    background-color:#e3f1d2;
+}
+.X{ background-color:rgb(242, 255, 216);
+    height:80px;
+    position: absolute;
+    width: 100%;
+    left:0;
+    top:-20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    
+}
+.J{position: absolute;
+    top:43%;
+    left:41%;
+    font-size: 35px;
+    list-style: none;
+
+}
+
+
+
+.Y{ background-color: #e2f8c7;
+    position: absolute;
+    top:60px;
+    left:0;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.Z{ background-color: #96C291;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left:0%;
+}
+
+.img{display:flex;
+    flex-direction: column;
+    position: relative;
+    top:130px;
+}
+
+.img1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
